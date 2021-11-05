@@ -1,4 +1,6 @@
-### Hi there 👋
+**⚡ Do you want to become a better web devloper? Check my [Website](https://crontis.net) to discover some new topics! ⚡**
+
+### Never stop learning :exclamation:
 
 <!--
 **Crontis/crontis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
